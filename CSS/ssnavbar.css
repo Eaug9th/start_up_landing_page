@@ -55,8 +55,18 @@ div {
     color: blue;
 }
 li {
+	display: inline-block;
 	background-color: pink;
 	text-align: center;
-	font-size: 10px;
+	font-size: 30px;
 
+}
+.navbar{
+	display: inline-block;
+	background-color: beige;
+	padding: 6em 0;
+  	background-image: url("");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	border-top: solid 1em #FFCF33;
 }
